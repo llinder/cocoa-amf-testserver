@@ -42,7 +42,7 @@
 		<dependency>
 			<groupId>org.springframework.flex</groupId>
 			<artifactId>spring-flex-core</artifactId>
-			<version>1.5.0.M2</version>
+			<version>1.5.0.RC1</version>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
@@ -59,6 +59,16 @@
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-web</artifactId>
 			<version>3.0.5.RELEASE</version>
+		</dependency>
+		<dependency>
+			<groupId>org.codehaus.jackson</groupId>
+			<artifactId>jackson-core-asl</artifactId>
+			<version>1.8.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.codehaus.jackson</groupId>
+			<artifactId>jackson-mapper-asl</artifactId>
+			<version>1.8.0</version>
 		</dependency>
 		<dependency>
 			<groupId>log4j</groupId>

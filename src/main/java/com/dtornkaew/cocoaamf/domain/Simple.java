@@ -1,8 +1,8 @@
-package com.dtornkaew.cocoamf.domain;
+package com.dtornkaew.cocoaamf.domain;
 
-public class Open
+public class Simple
 {
-    private String message = "This is a public message.";
+    private String message = "Some Message";
     
     public String getMessage()
     {
